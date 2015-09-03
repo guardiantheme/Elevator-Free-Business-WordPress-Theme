@@ -1,0 +1,58 @@
+
+#gt-portfolio-ul .tb_redux_field,
+#gt-portfolio-ul .tb_redux_desc,
+#gt-portfolio-ul .tb_redux_title_field,
+#gt-portfolio-ul .tb_redux_designation_field,
+#gt-portfolio-ul .tb_redux_icon_field{
+	display: none;
+}
+
+#gt-testimonial-ul .tb_redux_field,
+#gt-testimonial-ul .tb_redux_designation_field,
+#gt-testimonial-ul .tb_redux_field_url,
+#gt-testimonial-ul .tb_redux_title_field,
+#gt-testimonial-ul .tb_redux_icon_field{
+	display: none;
+}
+
+/* #tb_sulfur-tb-service .redux_slides_add_remove, 
+ #tb_sulfur-tb-service .tb_redux_field,
+ #tb_sulfur-tb-service .tb_redux_icon_field  {
+	display: none;
+}*/
+
+#gt_elevator-gt-features .media_upload_button, 
+#gt_elevator-gt-features .tb_redux_field,
+#gt_elevator-gt-features .tb_redux_designation_field,
+#gt_elevator-gt-features .tb_redux_title_field,
+#gt_elevator-gt-features .tb_redux_icon_field{
+	display: none;
+}
+
+#gt_elevator-gt-service .media_upload_button, 
+#gt_elevator-gt-service .tb_redux_field,
+#gt_elevator-gt-service .gt_elevator_redux_title,
+#gt_elevator-gt-service .tb_redux_designation_field,
+#gt_elevator-gt-service .tb_redux_field_url {
+	display: none;
+}
+
+#gt-team-ul .tb_redux_field_url,
+#gt-team-ul .tb_redux_desc,
+#gt-team-ul .tb_redux_title_field,
+#gt-team-ul .tb_redux_icon_field{
+	display: none;
+}
+
+#gt_elevator-gt-pricing-table .media_upload_button, 
+#gt-pricing-table-ul .tb_redux_designation_field,
+#gt-pricing-table-ul .tb_redux_title_field,
+#gt-pricing-table-ul .tb_redux_desc{
+	display: none;
+}
+
+ 
+.redux-slides-accordion-group textarea{
+	width: 100%;
+}
+
