@@ -13,7 +13,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <div>Design & Developed by <a href="#">Gurdiantheme</a></div>
+                    <div>Design & Developed by <a href="http://guardiantheme.com/">Gurdiantheme</a></div>
                 </div>
             </div>
         </div>
